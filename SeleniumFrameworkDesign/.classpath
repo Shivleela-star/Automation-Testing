@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JAR Files/bcpkix-jdk18on-1.76 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/bcpkix-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/bcprov-jdk18on-1.76 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/bcprov-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/bcutil-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/commons-compress-1.26.0.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/commons-io-2.15.1.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/commons-lang3-3.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/docker-java-3.3.5.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/docker-java-api-3.3.5.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/docker-java-core-3.3.5.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/docker-java-transport-3.3.5.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/docker-java-transport-httpclient5-3.3.5.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/httpclient5-5.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/httpcore5-5.2.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/httpcore5-h2-5.2.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/jna-5.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/slf4j-api-2.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/JAR Files/webdrivermanager-5.7.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
